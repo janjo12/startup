@@ -1,12 +1,4 @@
-# startup
+# 4 Player Chess
 
+This application supports both ordinary tournament-style chess as well as a 4-player (or two team) variant of traditional chess which features four full sets of classic chess pieces on an expanded plus-shaped board. Play will not support CPU play, but players will be able to connect remotely, using the same GUI which shows the layout of the board, informs the player of Check and Checkmate, and shows the range of moves possible for each of a player's pieces.
 
-// here's some text which exists for no reasons whatsoever
-
-
-// here's some more text for no reason at all
-
-
-// here's some more
-// doop de doo blah blah blah
-I learned that these // were unnecessary and that it can be difficult to keep track of updates when doings these things in quick succession rapidly. Also, evidently, the sync feature of visual studio code resolves changes and re-pushes automatically.
